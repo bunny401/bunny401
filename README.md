@@ -12,7 +12,7 @@
 - :open_hands: I hate restricting myself to a single domain and ***I extend my interest in multiple domains***
 - :video_game: I love ***playing video games and football!***
 - :airplane: I love travel , food and adventure. ***I save money - I spend it on experiences!***
-<img align="right" width="300" src="robo.gif">
+<img align="left" width="300" src="robo.gif">
 
 
 
