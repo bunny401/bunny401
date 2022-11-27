@@ -1,5 +1,5 @@
 
-<img src="text.gif" width="1280" height="240">
+<img src="Bunny.gif" width="1280" height="240">
 
 ### Hi there 👋
 
