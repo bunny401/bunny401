@@ -9,6 +9,9 @@
 - :video_game: I love ***playing video games and football!***
 - :airplane: I love travel , food and adventure. ***I save money - I spend it on experiences!***
 
+
+<img src="robo.gif" width="200">
+
  ## ![Mr. Robot](robo.gif = 100x20)
 
 
