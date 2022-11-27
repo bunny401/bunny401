@@ -4,7 +4,7 @@
 ## 📚 About me:
 
 
-- :mortar_board: Currently pursuing my bachelors in ***Computer Science and Engineering*** 
+- :mortar_board: Currently pursuing my bachelors in ***Computer Science and Engineering*** <img align="right" width="300" src="c2.png">
 - :zap: I am more of a ***self-learner*** who loves learning things apart from the classroom
 - :v: I am ***super positive*** and I always look forward for new adventures 
 - :sunglasses: I am a self-trained ***ethical hacker*** and security researcher. My journey began at my age of 13! 
