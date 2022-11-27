@@ -10,8 +10,7 @@
 - :airplane: I love travel , food and adventure. ***I save money - I spend it on experiences!***
 
 
-<img src="robo.gif" width="200">
+<img src="robo.gif" width="300">
 
- ## ![Mr. Robot](robo.gif = 100x20)
 
 
