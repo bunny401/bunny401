@@ -1,4 +1,8 @@
+
+<img src="giphy.gif" width="1280" height="640">
+
 ### Hi there 👋
+
 
 - :mortar_board: Currently pursuing my bachelors in ***Computer Science and Engineering***
 - :zap: I am more of a ***self-learner*** who loves learning things apart from the classroom
