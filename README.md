@@ -1,7 +1,7 @@
 
 <img src="Bunny.gif" width="1280" height="240">
 
-### Hi there 👋
+### 📚 About me:
 
 
 - :mortar_board: Currently pursuing my bachelors in ***Computer Science and Engineering***
